@@ -1,16 +1,17 @@
 # 🩺 Personalized Healthcare Recommendations System
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-brightgreen)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-blueviolet)
 
 
-
-
-
-
-
-
-
-
-
-
+----
 # 📌 Project Overview
 
 The **Personalized Healthcare Recommendations System** is a Machine Learning project designed to analyze patient health-related data and generate personalized healthcare recommendations.
@@ -24,6 +25,7 @@ The goal of this project is to use **data-driven insights** to improve healthcar
 
 Machine learning models analyze patterns in healthcare data and generate **personalized suggestions for patients.**
 
+----
 # 🎯 Project Objectives
 
 The main objectives of this project are:
@@ -35,6 +37,7 @@ The main objectives of this project are:
 • Evaluate model performance
 • Generate personalized healthcare recommendations
 
+---
 # 📊 Dataset Information
 
 The dataset used in this project contains healthcare-related information including blood dataset variables such as:
@@ -46,6 +49,7 @@ The dataset used in this project contains healthcare-related information includi
 
 Blood datasets are commonly used in **medical research, clinical diagnostics, and healthcare analytics** to analyze patient health indicators and identify patterns related to diseases and treatments.
 
+---
 # 🛠 Tools and Technologies
 
 Python – Programming language
@@ -62,6 +66,7 @@ Scikit-Learn – Machine learning algorithms
 
 Jupyter Notebook / VS Code – Development environment
 
+---
 # 📈 Project Workflow
 **1. Data Collection**
 
@@ -114,6 +119,7 @@ The machine learning pipeline includes:
 • Model training
 • Model prediction
 
+---
 #  Model Evaluation
 
 The models were evaluated using:
@@ -126,6 +132,7 @@ The models were evaluated using:
 
 These metrics help measure the model's prediction performance.
 
+---
 # 🧠 Personalized Recommendation System
 
 The trained machine learning model predicts patient outcomes based on input health data.
@@ -150,6 +157,7 @@ Example Output
 
 Regular check-up
 
+---
 # 📁 Project Structure
 
 personalized_healthcare_recommendations
@@ -164,6 +172,7 @@ healthcare_recommendation.ipynb
 
 README.md
 
+---
 # ▶️ How to Run the Project
 
 Step 1 – Clone the repository
@@ -178,6 +187,7 @@ Step 3 – Run the notebook
 
 (https://colab.research.google.com/drive/1kEvZ06aUVZad75Ux2Adnj728WpgKf82w?usp=sharing)
 
+---
 # 📊 Example Recommendation
 
 Example input:
@@ -192,6 +202,7 @@ Example output:
 Personalized Healthcare Recommendation:
 Regular check-up
 
+---
 # 🚀 Future Improvements
 
 Possible improvements for this project:
@@ -202,6 +213,7 @@ Possible improvements for this project:
 • Build an interactive healthcare dashboard
 • Implement explainable AI for healthcare predictions
 
+---
 # 👨‍💻 Author
 
 Jiji Babu
